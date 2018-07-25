@@ -49,9 +49,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MockConsole.cs" />
+    <Compile Include="NonSponsoredTests.cs" />
     <Compile Include="ProgramUITests.cs" />
     <Compile Include="SearchEngineTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SponsoredLinkTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
