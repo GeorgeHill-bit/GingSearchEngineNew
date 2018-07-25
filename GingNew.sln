@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ging.UI", "Ging.UI\Ging.UI.csproj", "{1C33B21A-3306-431B-9538-DF5A840E69BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ging.Biz", "Ging.Biz\Ging.Biz.csproj", "{631135CF-821A-4B81-8BA9-D3AD6049D4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ging.UnitTests", "Ging.UnitTests\Ging.UnitTests.csproj", "{71A97034-99F4-4DE3-B814-47A43328C691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C33B21A-3306-431B-9538-DF5A840E69BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C33B21A-3306-431B-9538-DF5A840E69BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C33B21A-3306-431B-9538-DF5A840E69BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C33B21A-3306-431B-9538-DF5A840E69BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631135CF-821A-4B81-8BA9-D3AD6049D4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631135CF-821A-4B81-8BA9-D3AD6049D4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631135CF-821A-4B81-8BA9-D3AD6049D4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631135CF-821A-4B81-8BA9-D3AD6049D4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A97034-99F4-4DE3-B814-47A43328C691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A97034-99F4-4DE3-B814-47A43328C691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A97034-99F4-4DE3-B814-47A43328C691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A97034-99F4-4DE3-B814-47A43328C691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BD5A50-9EE9-48BD-A110-5AC461EA5A68}
+	EndGlobalSection
+EndGlobal

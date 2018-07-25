@@ -1,0 +1,16 @@
+Type: Sponsored Link
+Url: foo.com
+Description: test
+Impressions: 0
+
+Type: Sponsored Link
+Url: www.colgate.com
+Description: toothpaste
+Impressions: 0
+
+Type: Non-Sponsored Link
+Url: www.nosponsor.com
+Description: nonsponsored link
+Impressions: 0
+
+PRESS ENTER TO RETURN TO MENU

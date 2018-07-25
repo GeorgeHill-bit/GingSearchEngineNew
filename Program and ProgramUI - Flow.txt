@@ -1,0 +1,55 @@
+internal class Program
+    ui.Run();
+        public class ProgramUI
+        private readonly IConsole _console;
+        public SearchEngine SearchEngine { get; }
+        public ProgramUI(IConsole consoleForAllReadsAndWrites)
+        public void Run(){
+        var finished = false;
+        do  _console.Write("Command (addlink, listlinks, search, or financials): ");
+            var command = _console.ReadLine().ToLower();
+            if (string.IsNullOrWhiteSpace(command)){
+                finished = true;
+            else if (command == "addlink"){
+                AddLink();
+            else if (command == "listlinks") {
+                ListLinks();
+            else if (command == "search"){
+                Search();
+            else if (command == "financials"){
+                Financials();
+        while (!finished);
+        FinishIteration();
+        private void AddLink(){}
+        private void AddSponsoredLink(string url, string description)
+        private void AddNonSponsoredLink(string url, string description)
+        private void ListLinks(){}
+            PrintLinks(SearchEngine.GetAllLinks());
+        private void Search(){}
+            PrintLinks(searchResults)
+        private void Financials(){}
+            PrintLinks(SearchEngine.GetFinancials());
+        private void PrintLinks(List<string> toPrint){}
+        private void FinishIteration)(){}
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
