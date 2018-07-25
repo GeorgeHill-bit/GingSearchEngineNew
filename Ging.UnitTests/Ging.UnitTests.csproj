@@ -49,13 +49,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MockConsole.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="ProgramUITests.cs" />
+    <Compile Include="SearchEngineTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Ging.Biz\Ging.Biz.csproj">
+      <Project>{631135cf-821a-4b81-8ba9-d3ad6049d4c4}</Project>
+      <Name>Ging.Biz</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Ging.UI\Ging.UI.csproj">
       <Project>{1c33b21a-3306-431b-9538-df5a840e69bf}</Project>
       <Name>Ging.UI</Name>
