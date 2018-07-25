@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CloudAcademy.CA151.Lab.Ging.UI
+namespace Ging.UI
 {
     public interface IConsole
     {

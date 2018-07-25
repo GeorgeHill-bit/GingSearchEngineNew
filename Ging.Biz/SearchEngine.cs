@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CloudAcademy.CA151.Lab.Ging.Biz
+namespace Ging.Biz
 {
     public class SearchEngine
     {

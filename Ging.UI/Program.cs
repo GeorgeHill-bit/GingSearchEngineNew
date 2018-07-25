@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace CloudAcademy.CA151.Lab.Ging.UI
+namespace Ging.UI
 {
     [ExcludeFromCodeCoverage]
     internal class Program

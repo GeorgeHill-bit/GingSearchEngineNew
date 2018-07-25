@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ging.UI", "Ging.UI\Ging.UI.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ging.Biz", "Ging.Biz\Ging.Biz.csproj", "{631135CF-821A-4B81-8BA9-D3AD6049D4C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ging.UnitTests", "Ging.UnitTests\Ging.UnitTests.csproj", "{71A97034-99F4-4DE3-B814-47A43328C691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ging.UnitTests", "Ging.UnitTests\Ging.UnitTests.csproj", "{0C941EF0-5B15-4D7D-853D-836D35FB534C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{631135CF-821A-4B81-8BA9-D3AD6049D4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{631135CF-821A-4B81-8BA9-D3AD6049D4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{631135CF-821A-4B81-8BA9-D3AD6049D4C4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{71A97034-99F4-4DE3-B814-47A43328C691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71A97034-99F4-4DE3-B814-47A43328C691}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71A97034-99F4-4DE3-B814-47A43328C691}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71A97034-99F4-4DE3-B814-47A43328C691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C941EF0-5B15-4D7D-853D-836D35FB534C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C941EF0-5B15-4D7D-853D-836D35FB534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C941EF0-5B15-4D7D-853D-836D35FB534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C941EF0-5B15-4D7D-853D-836D35FB534C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,4 @@
-﻿namespace CloudAcademy.CA151.Lab.Ging.Biz
+﻿namespace Ging.Biz
 {
     public enum LinkKind
     {

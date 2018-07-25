@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using CloudAcademy.CA151.Lab.Ging.Biz;
+using Ging.Biz;
 
-namespace CloudAcademy.CA151.Lab.Ging.UI
+namespace Ging.UI
 {
     public class ProgramUI
     {

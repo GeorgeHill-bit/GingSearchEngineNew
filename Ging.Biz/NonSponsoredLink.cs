@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CloudAcademy.CA151.Lab.Ging.Biz
+namespace Ging.Biz
 {
     public class NonSponsoredLink : Link
     {
